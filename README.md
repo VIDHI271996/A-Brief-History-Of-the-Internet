@@ -1,5 +1,5 @@
 # A-Brief-History-Of-the-Internet
- This project is create for NJIT IS-601.
+ This project is created for NJIT IS-601.
  # What is the Internet?
  # The History of the Internet
  # The Story of the Internet
