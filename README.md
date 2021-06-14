@@ -1,5 +1,5 @@
 # A-Brief-History-Of-the-Internet
-This is for Website project
+This project is created for NJIT IS-601.
 <h1>Home Page </h1>
 <h1>About</h1>
 
